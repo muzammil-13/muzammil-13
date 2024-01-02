@@ -4,7 +4,7 @@
 <!-- ABOUT ME -->
 ### Hi there 👋
 * 👂 My name is Muzammil 
-* 👩 Pronouns: He/Him
+* 👨🏻 Pronouns: He/Him
 * 🔭 I’m currently working on Building My Career 🏗️
 * 🌱 I’m currently learning Python & Applications 🐍
 * 🤝 I’m looking to collaborate on Google # (lol) 🔍
