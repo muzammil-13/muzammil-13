@@ -20,6 +20,6 @@
 </a>
 
 <!-- Displaying GIF -->
-  <img height="100" src="https://media.giphy.com/media/U29G5UtSokwAPamv7K/giphy.gif"/>
+  <img height="100%" src="https://media.giphy.com/media/U29G5UtSokwAPamv7K/giphy.gif"/>
 </a>
 
