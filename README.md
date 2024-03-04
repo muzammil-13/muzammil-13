@@ -6,9 +6,9 @@
 * 👂 My name is Muzammil 
 * 👨🏻 Pronouns: He/Him
 * 🔭 I’m currently working on Building My Career 🏗️
-* 🌱 I’m currently learning Python & Applications 🐍
+* 🌱 I’m currently learning Python & it's Applications 🐍
 * 🤝 I’m looking to collaborate on Google # (lol) 🔍
-* 🤔 I’m looking for help with Full Stack 👨‍💻
+* 🤔 I’m looking for help with Full Stack Development 👨‍💻
 * 💬 Ask me about Tech & Fitness 💪
 * 📫 How to reach me: muzammilibrahim13@gmail.com
 * ❤️ I love Engines 🏍️
