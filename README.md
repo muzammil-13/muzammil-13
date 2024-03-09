@@ -10,7 +10,7 @@
 * 🤝 I’m looking to collaborate on Google # (lol) 🔍
 * 🤔 I’m looking for help with Full Stack Development 👨‍💻
 * 💬 Ask me about Tech & Fitness 💪
-* 📫 How to reach me: mailtomuzammilibrahim13@gmail.com
+* 📫 How to reach me: mailto:muzammilibrahim13@gmail.com
 * ❤️ I love Engines 🏍️
 * ⚡ Fun fact: I'm a BCA Graduate (2023) 👨‍🎓
 
