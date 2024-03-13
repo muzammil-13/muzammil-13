@@ -1,5 +1,5 @@
 <!-- Header -->
-<h3>PORTFOLIO: https://muzammil-13.github.io</h3>
+<h3>PORTFOLIO: muzammil-13.github.io</h3>
 
 <!-- ABOUT ME -->
 ### Hi there 👋
