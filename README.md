@@ -13,17 +13,17 @@
 
 - 👯 I’m looking to collaborate on [Google❤️ Open Source](https://github.com/google)
 
-- 🤝 I’m looking for help with [-project name-](-project link-)
+- 🤝 I’m looking for help with [My Django Projects](https://github.com/muzammil-13/MidjangoRepo)
 
 - 👨‍💻 All of my projects are available at [https://muzammil-13.github.io/](https://muzammil-13.github.io/)
 
-- 📝 I regularly write articles on [..soon](..soon)
+- 📝 I regularly write articles on [My Google Notes](; lol)
 
 - 💬 Ask me about **Adventures, Tech & Fitness**
 
 - 📫 How to reach me **mailto:muzammilibrahim13@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UX3_H9KalWfprvmmCgR4X7j7RIZSjqjE/view?usp=sharing](https://drive.google.com/file/d/1UX3_H9KalWfprvmmCgR4X7j7RIZSjqjE/view?usp=sharing)
+- 📄 Know about my experiences [>Resume:](https://drive.google.com/file/d/1UX3_H9KalWfprvmmCgR4X7j7RIZSjqjE/view?usp=sharing)
 
 - ⚡ Fun fact **I'm 2023 BCA Graduate!**
 
