@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **mailto:muzammilibrahim13@gmail.com**
 
-- 📄 Know about my experiences [resume]((https://github.com/muzammil-13/muzammil-13/blob/main/Muzammil's%20ATS%20Resume%20(06-04-2024).pdf))
+- 📄 Know about my experiences [resume](https://github.com/muzammil-13/muzammil-13/blob/main/Muzammil's%20ATS%20Resume%20(06-04-2024).pdf)
 
 - ⚡ Fun fact **I'm 2023 BCA Graduate!**
 
