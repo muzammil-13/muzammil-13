@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **mailto:muzammilibrahim13@gmail.com**
 
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1UX3_H9KalWfprvmmCgR4X7j7RIZSjqjE/view?usp=sharing)
+- 📄 Know about my experiences [resume](https://github.com/muzammil-13/muzammil-13/blob/ee0764b709b6004c5d4c33d68a22856efcabfb4e/Muzammil's%20ATS%20Resume%20(06-04-2024).pdf)
 
 - ⚡ Fun fact **I'm a 2023 BCA Graduate!**
 
