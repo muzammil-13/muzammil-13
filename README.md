@@ -18,15 +18,15 @@
 
 - 👨‍💻 All of my projects are available at [https://muzammil-13.github.io/](https://muzammil-13.github.io/)
 
-- 📝 I regularly write articles on [My Google Notes ;) #lol](My Google Notes ;) #lol)
+- 📝 I regularly write articles on My Google Notes ;) #lol
 
 - 💬 Ask me about **Adventures, Tech & Fitness**
 
 - 📫 How to reach me **mailto:muzammilibrahim13@gmail.com**
 
-- 📄 Know about my experiences [resume](https://github.com/muzammil-13/muzammil-13/blob/main/Muzammil's%20ATS%20Resume%20(06-04-2024).pdf)
+- 📄 Know about my experiences [resume](resume)
 
-- ⚡ Fun fact **I'm 2023 BCA Graduate!**
+- ⚡ Fun fact **I'm a 2023 BCA Graduate!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -53,6 +53,7 @@
 <p><a href="https://www.buymeacoffee.com/muzammil_13"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="muzammil_13" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muzammil-13&show_icons=true&theme=dark&locale=en&layout=compact" alt="muzammil-13" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muzammil-13&show_icons=true&theme=dark&locale=en" alt="muzammil-13" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muzammil-13&show_icons=true&theme=dark&locale=en" alt="muzammil-13" /></p>
 
