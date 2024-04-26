@@ -1,4 +1,3 @@
-<!--made with GitHub Profile README Generator-->
 <h1 align="center">Hi 👋, I'm Muzammil Ibrahim</h1>
 <h3 align="center">A {Self-taught} Python Full Stack Developer from KL, India.</h3>
 
@@ -8,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/_muzammil13" target="blank"><img src="https://img.shields.io/twitter/follow/_muzammil13?logo=twitter&style=for-the-badge" alt="_muzammil13" /></a> </p>
 
-- 🔭 I’m currently working on **Building AI Chat Model**
+- 🔭 I’m currently working on **Mini AI Chat Model**
 
 - 🌱 I’m currently learning **Python for Data Science, DSA, React, Digital Marketing...**
 
@@ -18,13 +17,13 @@
 
 - 👨‍💻 All of my projects are available at [https://muzammil-13.github.io/](https://muzammil-13.github.io/)
 
-- 📝 I regularly write articles on My Google Notes ;) #lol
+- 📝 I regularly write articles on [My Google Notes ;) #lol](My Google Notes ;) #lol)
 
 - 💬 Ask me about **Adventures, Tech & Fitness**
 
 - 📫 How to reach me **mailto:muzammilibrahim13@gmail.com**
 
-- 📄 Know about my experiences [resume](resume)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1UX3_H9KalWfprvmmCgR4X7j7RIZSjqjE/view?usp=sharing)
 
 - ⚡ Fun fact **I'm a 2023 BCA Graduate!**
 
@@ -56,4 +55,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muzammil-13&show_icons=true&theme=dark&locale=en" alt="muzammil-13" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muzammil-13&" alt="muzammil-13" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muzammil-13&theme=dark" alt="muzammil-13" /></p>
