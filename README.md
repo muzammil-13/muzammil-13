@@ -53,7 +53,6 @@
 <p><a href="https://www.buymeacoffee.com/muzammil_13"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="muzammil_13" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muzammil-13&show_icons=true&theme=dark&locale=en&layout=compact" alt="muzammil-13" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muzammil-13&show_icons=true&theme=dark&locale=en" alt="muzammil-13" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muzammil-13&show_icons=true&theme=dark&locale=en" alt="muzammil-13" /></p>
 
