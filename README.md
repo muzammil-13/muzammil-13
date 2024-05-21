@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/_muzammil13" target="blank"><img src="https://img.shields.io/twitter/follow/_muzammil13?logo=twitter&style=for-the-badge" alt="_muzammil13" /></a> </p>
 
-- 🔭 I’m currently working on **Mini AI Chat Model**
+- 🔭 I’m currently working on **a Python Project**
 
-- 🌱 I’m currently learning **Python for Data Science, DSA, React, Digital Marketing...**
+- 🌱 I’m currently learning **Python for Data Science, DSA, React...**
 
 - 👯 I’m looking to collaborate on [Google❤️ Open Source](https://github.com/google)
 
