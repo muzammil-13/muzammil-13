@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muzammil Ibrahim</h1>
 <h3 align="center">A {Self-taught} Python Full Stack Developer from KL, India.</h3>
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script> <!--Linkedin Badge-->
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muzammil-13&label=Profile%20views&color=000000&style=flat" alt="muzammil-13" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muzammil-13" alt="muzammil-13" /></a> </p>
