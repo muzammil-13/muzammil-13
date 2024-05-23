@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muzammil Ibrahim</h1>
 <h3 align="center">A {Self-taught} Python Full Stack Developer from KL, India.</h3>
 
-<p align="centre"> <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script></p> <!--Linkedin Badge-->
+<!--Linkedin Badge-->
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="muzammil-ibrahim-pm" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/muzammil-ibrahim-pm?trk=profile-badge">Muzammil Ibrahim</a></div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muzammil-13&label=Profile%20views&color=000000&style=flat" alt="muzammil-13" /> </p>
 
