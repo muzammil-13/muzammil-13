@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muzammil Ibrahim</h1>
 <h3 align="center">A {Self-taught} Python Full Stack Developer from KL, India.</h3>
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script> <!--Linkedin Badge-->
+<p align="centre"> <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script></p> <!--Linkedin Badge-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muzammil-13&label=Profile%20views&color=000000&style=flat" alt="muzammil-13" /> </p>
 
