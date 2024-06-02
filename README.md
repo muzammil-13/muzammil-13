@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muzammil-13&label=Profile%20views&color=000000&style=flat" alt="muzammil-13" /> </p>
 
 # 💫 About Me:
-- 🔭 I’m currently working on **AI ChatBot using Modern Tkinter**
+- 🔭 I’m currently working on **AI ChatBot with Modern Tkinter GUi (Powered by OpenAI Turbo 3.5)**
 
 - 🌱 I’m currently learning **DS & DSA using Python, React, Digital Marketing...**
 
@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [My Django Projects](https://github.com/muzammil-13/MidjangoRepo)
 
-- 👨‍💻 All of my projects are available at [https://muzammil-13.github.io/](https://muzammil-13.github.io/)
+- 👨‍💻 All of my projects are available at [My Personal Github Page](https://muzammil-13.github.io/)
 
 - 📝 I regularly write articles on My Google Keep ;) #lol
 
@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Mys_-Q32Wmfoz34623Hv0LhTXT8shtgN/view?usp=sharing)
 
-- ⚡ Fun fact **I'm a 2023 BCA Graduate!**
+- ⚡ Fun fact **I'm a 2023 Computer Applications Graduate!**
 
 <!--GPRM/-->
 
