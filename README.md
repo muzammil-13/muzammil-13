@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Mys_-Q32Wmfoz34623Hv0LhTXT8shtgN/view?usp=sharing)
 
-- ⚡ Fun fact **I'm a 2023 Computer Applications Graduate!**
+- ⚡ Fun fact **I'm a 2023 Graduate in Computer Application!**
 
 <!--GPRM/-->
 
