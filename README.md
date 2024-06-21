@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Mys_-Q32Wmfoz34623Hv0LhTXT8shtgN/view?usp=sharing)
 
-- ⚡ Fun fact **I'm a 2023 Graduate in Computer Application!**
+- ⚡ Fun fact **I'm a 2023 Graduate in Computer Applications!**
 
 <!--GPRM/-->
 
@@ -46,9 +46,9 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=muzammil-13&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
+<!--=### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
+--->
 ---
 
 
