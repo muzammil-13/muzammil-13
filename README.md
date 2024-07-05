@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DS & DSA using Python, React, Digital Marketing...**
 
-- 👯 I’m looking to collaborate on [Google❤️ Open Source](https://github.com/google)
+- 👯 I’m looking to collaborate on [Google❤️ Open Source](https://opensource.googleblog.com/)
 
 - 🤝 I’m looking for help with [My Django Projects](https://github.com/muzammil-13/MidjangoRepo)
 
