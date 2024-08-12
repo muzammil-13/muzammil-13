@@ -7,7 +7,7 @@
 # 💫 About Me:
 - 🔭 I’m currently working on **AI ChatBot with Modern Tkinter GUi (Powered by OpenAI Turbo 3.5)**
 
-- 🌱 I’m currently learning **DS & DSA using Python, React, Digital Marketing...**
+- 🌱 I’m currently learning **DS&A** to enhance my Problem-Solving Skills
 
 - 👯 I’m looking to collaborate on [Google❤️ Open Source](https://opensource.googleblog.com/)
 
@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [My Personal Github Page](https://muzammil-13.github.io/)
 
-- 📝 I regularly write articles on My Google Keep ;) #lol
+- 📝 I regularly write articles on My Notion Space ;) #lol
 
 - 💬 Ask me about **Adventures, Tech & Fitness**
 
