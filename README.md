@@ -5,9 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muzammil-13&label=Profile%20views&color=000000&style=flat" alt="muzammil-13" /> </p>
 
 # 💫 About Me:
-- 🔭 I’m currently working on **SF-Ecom2.0**
+- 🔭 I’m currently working on **My Hobby Projects**
 
-- 🌱 I’m currently learning **DS&A** to enhance my Problem-Solving Skills
+- 🌱 I’m currently learning **MERN** to enhance my Development Skills
 
 - 👯 I’m looking to collaborate on [Google❤️ Open Source](https://opensource.googleblog.com/)
 
@@ -15,9 +15,9 @@
 
 - 👨‍💻 All of my projects are available at [My Personal Github Page](https://muzammil-13.github.io/)
 
-- 📝 I regularly write articles on My Notion Space ;) #lol
+- 📝 I regularly write articles on [My Notion Space](https://www.notion.so/invite/672d39e45530cc5cd01b06bb5ae4dc437cb926d4)
 
-- 💬 Ask me about **Adventures, Tech & Fitness**
+- 💬 Ask me about **Tech, Fitness, Adventures, ...**
 
 - 📫 How to reach me **mailto:muzammilibrahim13@gmail.com**
 
