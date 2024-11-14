@@ -8,7 +8,7 @@
 # 💫 About Me:
 
 - 🔭 I’m currently working on **My Hobby Projects**
-- 🌱 I’m currently learning **MERN Stack with DevOps Practices** to enhance my Software Engineering Skills
+- 🌱 I’m currently learning **MERN Stack & DevOps Practices** to enhance my Software Engineering Skills
 - 👯 I’m looking to collaborate on [Google❤️ Open Source](https://opensource.googleblog.com/)
 - 🤝 I’m looking for help with [My Django Projects](https://github.com/muzammil-13/MidjangoRepo)
 - 👨‍💻 All of my projects are available at [My Personal Github Page](https://muzammil-13.github.io/)
@@ -30,11 +30,9 @@
 
 # 📊 GitHub Stats:
 
-![img](https://github-readme-stats.vercel.app/api?username=muzammil-13&theme=swift&hide_border=false&include_all_commits=true&count_private=true)
-
-![img](https://github-readme-streak-stats.herokuapp.com/?user=muzammil-13&theme=swift&hide_border=false)
-
-![img](https://github-readme-stats.vercel.app/api/top-langs/?username=muzammil-13&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=muzammil-13&theme=swift&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=muzammil-13&theme=swift&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=muzammil-13&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 
