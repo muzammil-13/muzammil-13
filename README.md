@@ -15,7 +15,7 @@
 - 📝 I regularly write articles on [My Notion Space](https://www.notion.so/invite/672d39e45530cc5cd01b06bb5ae4dc437cb926d4)
 - 💬 Ask me about **Tech, Fitness, Adventures, ...**
 - 📫 How to reach me **mailto:muzammilibrahim13@gmail.com**
-- 📄 Know about my experiences [Resume](#)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1YPhJNiSVrTI6x0lmapbts-NMEi_a4k8S/view?usp=sharing)
 - ⚡ Fun fact : **Graduated in '23 with a Computer Applications degree and a passion for all things tech!**
 
 <!--GPRM/-->
