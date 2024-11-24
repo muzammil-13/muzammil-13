@@ -46,14 +46,9 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=muzammil-13&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<!---### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
--->
 
 ---
 
 ## 💰 You can help me by Donating
 
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/muzammil_13)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
