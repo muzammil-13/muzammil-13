@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muzammil Ibrahim</h1>
-<h3 align="center">A {Self-taught} Full Stack Developer from KL, India.</h3>
+<h3 align="center">A Full Stack Developer from KL, India.</h3>
 
 <!-- 👁️ profile view counter-->
 
@@ -10,13 +10,13 @@
 - 🔭 I’m currently working on **My Hobby Projects**
 - 🌱 I’m currently learning **MERN Stack & DevOps Practices** to enhance my Software Engineering Skills
 - 👯 I’m looking to collaborate on [Google❤️ Open Source](https://opensource.googleblog.com/)
-- 🤝 I’m looking for help with [My Django Projects](https://github.com/muzammil-13/MidjangoRepo)
+- 🤝 I’m looking for help with [My Latest project](https://github.com/muzammil-13/airbnb-clone)
 - 👨‍💻 All of my projects are available at [My Personal Github Page](https://muzammil-13.github.io/)
 - 📝 I regularly write articles on [My Notion Space](https://www.notion.so/invite/672d39e45530cc5cd01b06bb5ae4dc437cb926d4)
 - 💬 Ask me about **Tech, Fitness, Adventures, ...**
 - 📫 How to reach me **mailto:muzammilibrahim13@gmail.com**
-- 📄 Know about my experiences [Resume](#)
-- ⚡ Fun fact : **Graduated in '23 with a Computer Applications degree and a passion for all things tech!**
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/15cWNcvsN7wTC6lar999HxAJqx5L_XIrX/view?usp=sharing)
+- ⚡ Fun fact : **Graduated in '23 with a Computer Applications Degree and a passion for all things tech!**
 
 <!--GPRM/-->
 
