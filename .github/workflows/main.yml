@@ -1,14 +1,17 @@
 name: Update README
-
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs daily at midnight
+    - cron: '*/30 * * * *'  # Run every 30 minutes
+  workflow_dispatch:  # Manual trigger option
+  
   push:
     branches:
       - main
 
 jobs:
   update-readme:
+    permissions:
+      contents: write  # Explicit permissions
     runs-on: ubuntu-latest
 
     steps:
