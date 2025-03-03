@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muzammil Ibrahim</h1>
-<h3 align="center">A Full Stack Developer from KL, India.</h3>
+<h3 align="center">A Full Stack Engineer from KL, India.</h3>
 
 <!-- 👁️ profile view counter-->
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muzammil-13&label=Profile%20views&color=000000&style=flat" alt="muzammil-13" /> </p>
 
 # 💫 About Me:
@@ -15,7 +16,7 @@
 - 💬 Ask me about **Tech, Fitness, Adventures, ...**
 - 📫 How to reach me **[muzammilibrahim13@gmail.com](mailto:muzammilibrahim13@gmail.com)**
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/15cWNcvsN7wTC6lar999HxAJqx5L_XIrX/view?usp=sharing)
-- ⚡ Fun fact : **Im a Jack of All Trades and Master of None!**
+- ⚡ Fun fact : **Graduated in '23 with a Computer Applications Degree and a passion for all things tech!**
 
 <!--GPRM/-->
 
