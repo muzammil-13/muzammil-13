@@ -1,24 +1,27 @@
-<h1 align="center">Hi 👋, I'm Muzammil Ibrahim</h1>
-<h3 align="center">A Full Stack Engineer from KL, India.</h3>
+# Hi 👋, I'm Muzammil Ibrahim
 
-<!-- 👁️ profile view counter-->
+## A Versatile Developer with a Passion for Continuous Learning 🧑‍💻📈
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muzammil-13&label=Profile%20views&color=000000&style=flat" alt="muzammil-13" /> </p>
 
-# 💫 About Me:
+### About Me:
 
-- 🔭 I’m currently working on **Hobby Projects**
-- 🌱 I’m currently learning **MERN Stack & DevOps Practices** to enhance my Software Engineering Skills
-- 👯 I’m looking to collaborate on [Google❤️ Open Source](https://opensource.googleblog.com/)
-- 🤝 I’m looking for help with [My Latest project](https://github.com/muzammil-13/airbnb-clone): AirBnB-clone
-- 👨‍💻 All of my projects are available at [My Personal Github Page](https://muzammil-13.github.io/)
-- 📝 I regularly write articles on [My Notion Space](https://www.notion.so/invite/672d39e45530cc5cd01b06bb5ae4dc437cb926d4)
-- 💬 Ask me about **Tech, Fitness, Adventures, ...**
-- 📫 How to reach me **[muzammilibrahim13@gmail.com](mailto:muzammilibrahim13@gmail.com)**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/15cWNcvsN7wTC6lar999HxAJqx5L_XIrX/view?usp=sharing)
-- ⚡ Fun fact : **Graduated in '23 with a Computer Applications Degree and a passion for all things tech!**
+* 🌟 **Open-Source Contributions:**
+  * [OHC Network]() (Currently Contributing ⚒️)
+  * [Pathway LLM App]() (ExamInsights RAG LLM Proposal Accepted ✅)
+* 💡 **Open to freelance opportunities and impactful collaborations.**
+* 👨‍💻 **Journey:**
+  * Computer Subject Class Topper in 10th Grade  ➡️ HSE in Biology Science  ➡️ BCA Graduate  ➡️ Assisting in Family Business (Non-Tech)  ➡️ **Building a Tech Mindset through Hobby Projects & Industry Events**.
+* 🌟 **Motto:***"Building impactful tech solutions for the future."*
 
-<!--GPRM/-->
+## 🌟 Featured Projects
+
+### 🔗 Pinned Repositories
+
+- [AirBnB Clone](https://github.com/muzammil-13/airbnb-clone) - Work in progress on a full-stack web application.
+- [Django Projects Showcase](https://github.com/muzammil-13/Django_projects-inmakes) - Real-world Django applications across multiple domains.
+
+---
 
 ## 🌐 Socials:
 
@@ -106,26 +109,25 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-<!-- tech stack stops here -->
+## 📚 What I'm Currently Learning
 
-# 📊 GitHub Stats:
+- **JavaScript Full Stack via The Odin Project**
+- **Basic DevOps Practices**
+
+---
+
+## 🏆 GitHub Stats
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muzammil-13&bg_color=000000&color=16bb37&line=16bb37&point=ffffff&area=true&hide_border=true)]
 
 ![](https://github-readme-stats.vercel.app/api?username=muzammil-13&theme=swift&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=muzammil-13&theme=swift&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=muzammil-13&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+---
 
-![](https://github-profile-trophy.vercel.app/?username=muzammil-13&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
+## 💸 Support My Work
 
-### ✍️ Random Dev Quote
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/muzammil_13)
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=muzammil-13&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-## 💰 You can help me by Donating
-
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/muzammil_13)
+---
