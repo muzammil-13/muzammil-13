@@ -1,53 +1,55 @@
-# Hi 👋, I'm Muzammil Ibrahim
+<h1 align="center">Hi 👋, I'm Muzammil Ibrahim</h1>
+<h3 align="center">Versatile Computer Engineer | Full-Stack Developer | Cloud & DevOps Enthusiast</h3>
 
-## A Versatile Computer Engineer with a Passion for Continuous Learning 🧑‍💻📈
+<p align="center">
+  <em>"Building impactful tech solutions for the future"</em>
+</p>
 
-#### My Tech Journey: From Curiosity to Code
+## 🎯 Current Focus
 
-🌈 Early Days: A Curious Explorer (Childhood - Teens)
+- Full-stack AirBnB Clone (React, Node.js, MongoDB)
+- OHC Network Open Source Project
+- JavaScript Full Stack via The Odin Project
 
-Grew up experimenting with Ubuntu, Windows 7, Office tools, and Photoshop on my elder sister's computer.
+## 🚀 Journey
 
-Explored custom ROM flashing (boot unlocking, custom recoveries, kernels, rooting, and tweaks) and basic cybersecurity tools using shared PCs, internet cafés, and friends' computers.
+### Professional Growth (2023-Present)
 
-Developed a fascination for troubleshooting OS issues and assembling hardware components.
+- Scalable Web Applications Development
+- DevOps Implementation
+- Open Source Contributions
+- Technical Content Creation
+- MERN Stack Development
 
-🌟 Formal Education & Expanding Horizons (BCA Years)
+### Academic Excellence (2020-2023)
 
-Studied Linux Administration, Web Development, Android Development, and Cloud Computing—my favorite subjects.
+- BCA: Linux Administration & Web Development
+- Web Project Leadership
+- Backend Architecture Design
 
-Self-taught computer assembling and hardware troubleshooting beyond coursework.
+### Early Explorer (2015-2020)
 
-Developed Python and Django skills while working on academic and side projects.
+- Ubuntu & Windows Systems
+- Custom ROM Development
+- Hardware Optimization
 
-🏆 Post-Degree Learning: Hands-On Growth & Real-World Experience
+### 🌟 **Open-Source Contributions:**
 
-Completed a Python Full-Stack training and learned frontend development via freeCodeCamp.
+* [OHC Network]() (Currently Contributing ⚒️)
+* [Pathway LLM App]() (ExamInsights RAG LLM Proposal Accepted ✅)
 
-Explored DevOps basics, MERN stack fundamentals, and backend development.
-
-Currently diving deep into JavaScript Full Stack Development via The Odin Project.
-
-Gaining exposure to cloud computing, DevOps, and modern frameworks.
-
-👨‍💻 Journey in short:
-
-Computer Subject Class Topper in 10th Grade  ➡️ HSE in Biology Science  ➡️ BCA Graduate  ➡️ Assisting in Family Business (Non-Tech)  ➡️ Building a Tech Mindset through Hobby Projects & Industry Events.
-
-🌟 Motto: "Building impactful tech solutions for the future."
-
-* 🌟 **Open-Source Contributions:**
-  * [OHC Network]() (Currently Contributing ⚒️)
-  * [Pathway LLM App]() (ExamInsights RAG LLM Proposal Accepted ✅)
-* 💡 **Open to freelance opportunities and impactful collaborations.**
-
+### 💡 **Open to Full time & Freelance opportunities and impactful collaborations.**
 
 ## 🌟 Featured Projects
 
 ### 🔗 Pinned Repositories
 
-- [AirBnB Clone](https://github.com/muzammil-13/airbnb-clone) - Work in progress on a full-stack web application.
-- [Django Projects Showcase](https://github.com/muzammil-13/Django_projects-inmakes) - Real-world Django applications across multiple domains.
+- [AirBnB Clone](https://github.com/muzammil-13/airbnb-clone) [Work in progress on a full-stack web application.]
+  - Full-stack accommodation booking platform
+  - Tech: React, Node.js, MongoDB
+- [Django Projects Showcase](https://github.com/muzammil-13/Django_projects-inmakes) [Real-world Django applications across multiple domains.]
+  - Collection of production-ready Django applications
+  - Demonstrates backend architecture and API design
 
 ---
 
@@ -136,11 +138,6 @@ Computer Subject Class Topper in 10th Grade  ➡️ HSE in Biology Science  ➡�
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-
-## 📚 What I'm Currently Learning
-
-- **JavaScript Full Stack via The Odin Project**
-- **Basic DevOps Practices**
 
 ---
 
