@@ -1,18 +1,46 @@
 # Hi 👋, I'm Muzammil Ibrahim
 
-## A Versatile Developer with a Passion for Continuous Learning 🧑‍💻📈
+## A Versatile Computer Engineer with a Passion for Continuous Learning 🧑‍💻📈
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muzammil-13&label=Profile%20views&color=000000&style=flat" alt="muzammil-13" /> </p>
+#### My Tech Journey: From Curiosity to Code
 
-### About Me:
+🌈 Early Days: A Curious Explorer (Childhood - Teens)
+
+Grew up experimenting with Ubuntu, Windows 7, Office tools, and Photoshop on my elder sister's computer.
+
+Explored custom ROM flashing (boot unlocking, custom recoveries, kernels, rooting, and tweaks) and basic cybersecurity tools using shared PCs, internet cafés, and friends' computers.
+
+Developed a fascination for troubleshooting OS issues and assembling hardware components.
+
+🌟 Formal Education & Expanding Horizons (BCA Years)
+
+Studied Linux Administration, Web Development, Android Development, and Cloud Computing—my favorite subjects.
+
+Self-taught computer assembling and hardware troubleshooting beyond coursework.
+
+Developed Python and Django skills while working on academic and side projects.
+
+🏆 Post-Degree Learning: Hands-On Growth & Real-World Experience
+
+Completed a Python Full-Stack training and learned frontend development via freeCodeCamp.
+
+Explored DevOps basics, MERN stack fundamentals, and backend development.
+
+Currently diving deep into JavaScript Full Stack Development via The Odin Project.
+
+Gaining exposure to cloud computing, DevOps, and modern frameworks.
+
+👨‍💻 Journey in short:
+
+Computer Subject Class Topper in 10th Grade  ➡️ HSE in Biology Science  ➡️ BCA Graduate  ➡️ Assisting in Family Business (Non-Tech)  ➡️ Building a Tech Mindset through Hobby Projects & Industry Events.
+
+🌟 Motto: "Building impactful tech solutions for the future."
 
 * 🌟 **Open-Source Contributions:**
   * [OHC Network]() (Currently Contributing ⚒️)
   * [Pathway LLM App]() (ExamInsights RAG LLM Proposal Accepted ✅)
 * 💡 **Open to freelance opportunities and impactful collaborations.**
-* 👨‍💻 **Journey:**
-  * Computer Subject Class Topper in 10th Grade  ➡️ HSE in Biology Science  ➡️ BCA Graduate  ➡️ Assisting in Family Business (Non-Tech)  ➡️ **Building a Tech Mindset through Hobby Projects & Industry Events**.
-* 🌟 **Motto:***"Building impactful tech solutions for the future."*
+
 
 ## 🌟 Featured Projects
 
