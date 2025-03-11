@@ -1,53 +1,56 @@
 # Hi 👋, I'm Muzammil Ibrahim
 
-## A Versatile Computer Engineer with a Passion for Continuous Learning 🧑‍💻📈
+## 💻 Versatile Computer Engineer | Full-Stack Developer | Cloud & DevOps Enthusiast
 
-#### My Tech Journey: From Curiosity to Code
+> "Building impactful tech solutions for the future"
 
-🌈 Early Days: A Curious Explorer (Childhood - Teens)
+## 📚 What I'm Currently Learning
 
-Grew up experimenting with Ubuntu, Windows 7, Office tools, and Photoshop on my elder sister's computer.
+- JavaScript Foundations via The Odin Project
+- DevOps practices and cloud architecture
 
-Explored custom ROM flashing (boot unlocking, custom recoveries, kernels, rooting, and tweaks) and basic cybersecurity tools using shared PCs, internet cafés, and friends' computers.
+### 🎯 What I'm Currently Working On
 
-Developed a fascination for troubleshooting OS issues and assembling hardware components.
+- Hobby projects
+- Open Source Contributions
 
-🌟 Formal Education & Expanding Horizons (BCA Years)
+### 🚀 My Tech Journey
 
-Studied Linux Administration, Web Development, Android Development, and Cloud Computing—my favorite subjects.
+#### 🌈 Early Days: A Curious Explorer (2015-2020)
 
-Self-taught computer assembling and hardware troubleshooting beyond coursework.
+- Mastered Ubuntu, Windows environments
+- Explored custom ROM development and mobile optimization
+- Built foundation in hardware troubleshooting
 
-Developed Python and Django skills while working on academic and side projects.
+#### 🎓 Academic Excellence (2020-2023)
 
-🏆 Post-Degree Learning: Hands-On Growth & Real-World Experience
+- BCA with focus on Linux Administration & Web Development
+- Developed Linux Admin, Android & Web Dev Skills
 
-Completed a Python Full-Stack training and learned frontend development via freeCodeCamp.
+#### 💪 Professional Growth (2023-Present)
 
-Explored DevOps basics, MERN stack fundamentals, and backend development.
-
-Currently diving deep into JavaScript Full Stack Development via The Odin Project.
-
-Gaining exposure to cloud computing, DevOps, and modern frameworks.
-
-👨‍💻 Journey in short:
-
-Computer Subject Class Topper in 10th Grade  ➡️ HSE in Biology Science  ➡️ BCA Graduate  ➡️ Assisting in Family Business (Non-Tech)  ➡️ Building a Tech Mindset through Hobby Projects & Industry Events.
-
-🌟 Motto: "Building impactful tech solutions for the future."
+- Completed Python Full-Stack certification
+- Self taught Devops practices
+- Cohort in Google Cloud PCA
+- Mastered MERN stack fundamentals
+- Active Open source contributor
+- Freelancing Landing pages for Startups
 
 * 🌟 **Open-Source Contributions:**
-  * [OHC Network]() (Currently Contributing ⚒️)
-  * [Pathway LLM App]() (ExamInsights RAG LLM Proposal Accepted ✅)
-* 💡 **Open to freelance opportunities and impactful collaborations.**
-
+* [OHC Network]() (Currently Contributing ⚒️)
+* [Pathway LLM App]() (ExamInsights RAG LLM Proposal Accepted ✅)
+* 💡 **Open to Full time & Freelance opportunities and impactful collaborations.**
 
 ## 🌟 Featured Projects
 
 ### 🔗 Pinned Repositories
 
-- [AirBnB Clone](https://github.com/muzammil-13/airbnb-clone) - Work in progress on a full-stack web application.
-- [Django Projects Showcase](https://github.com/muzammil-13/Django_projects-inmakes) - Real-world Django applications across multiple domains.
+- [AirBnB Clone](https://github.com/muzammil-13/airbnb-clone) [Work in progress on a full-stack web application.]
+  - Full-stack accommodation booking platform
+  - Tech: React, Node.js, MongoDB
+- [Django Projects Showcase](https://github.com/muzammil-13/Django_projects-inmakes) [Real-world Django applications across multiple domains.]
+  - Collection of production-ready Django applications
+  - Demonstrates backend architecture and API design
 
 ---
 
@@ -137,12 +140,9 @@ Computer Subject Class Topper in 10th Grade  ➡️ HSE in Biology Science  ➡�
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-## 📚 What I'm Currently Learning
-
-- **JavaScript Full Stack via The Odin Project**
-- **Basic DevOps Practices**
-
 ---
+
+
 
 ## 🏆 GitHub Stats
 
