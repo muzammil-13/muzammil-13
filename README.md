@@ -1,45 +1,44 @@
-# Hi 👋, I'm Muzammil Ibrahim
+<h1 align="center">Hi 👋, I'm Muzammil Ibrahim</h1>
+<h3 align="center">Versatile Computer Engineer | Full-Stack Developer | Cloud & DevOps Enthusiast</h3>
 
-## 💻 Versatile Computer Engineer | Full-Stack Developer | Cloud & DevOps Enthusiast
+<p align="center">
+  <em>"Building impactful tech solutions for the future"</em>
+</p>
 
-> "Building impactful tech solutions for the future"
+## 🎯 Current Focus
 
-## 📚 What I'm Currently Learning
+- Full-stack AirBnB Clone (React, Node.js, MongoDB)
+- OHC Network Open Source Project
+- JavaScript Full Stack via The Odin Project
 
-- JavaScript Foundations via The Odin Project
-- DevOps practices and cloud architecture
+## 🚀 Journey
 
-### 🎯 What I'm Currently Working On
+### Professional Growth (2023-Present)
 
-- Hobby projects
+- Scalable Web Applications Development
+- DevOps Implementation
 - Open Source Contributions
+- Technical Content Creation
+- MERN Stack Development
 
-### 🚀 My Tech Journey
+### Academic Excellence (2020-2023)
 
-#### 🌈 Early Days: A Curious Explorer (2015-2020)
+- BCA: Linux Administration & Web Development
+- Web Project Leadership
+- Backend Architecture Design
 
-- Mastered Ubuntu, Windows environments
-- Explored custom ROM development and mobile optimization
-- Built foundation in hardware troubleshooting
+### Early Explorer (2015-2020)
 
-#### 🎓 Academic Excellence (2020-2023)
+- Ubuntu & Windows Systems
+- Custom ROM Development
+- Hardware Optimization
 
-- BCA with focus on Linux Administration & Web Development
-- Developed Linux Admin, Android & Web Dev Skills
+### 🌟 **Open-Source Contributions:**
 
-#### 💪 Professional Growth (2023-Present)
-
-- Completed Python Full-Stack certification
-- Self taught Devops practices
-- Cohort in Google Cloud PCA
-- Mastered MERN stack fundamentals
-- Active Open source contributor
-- Freelancing Landing pages for Startups
-
-* 🌟 **Open-Source Contributions:**
 * [OHC Network]() (Currently Contributing ⚒️)
 * [Pathway LLM App]() (ExamInsights RAG LLM Proposal Accepted ✅)
-* 💡 **Open to Full time & Freelance opportunities and impactful collaborations.**
+
+### 💡 **Open to Full time & Freelance opportunities and impactful collaborations.**
 
 ## 🌟 Featured Projects
 
@@ -141,8 +140,6 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 ---
-
-
 
 ## 🏆 GitHub Stats
 
