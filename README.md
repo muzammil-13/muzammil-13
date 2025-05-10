@@ -18,39 +18,65 @@ From internships to open source to community-driven learning, I'm building towar
 
 ## 🛠️ Skills
 
-**Languages:** Python, JavaScript  
-**Frameworks:** Django, React, Node.js  
-**Cloud & DB:** GCP, Firebase, MongoDB, Supabase  
-**Tools:** Git, GitHub, Postman, Figma, Notion  
+### 🧑‍💻 Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+### 🧱 Frameworks & Libraries
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
+### ☁️ Cloud & Databases
+![Google Cloud](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+
+### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)
 
 ---
 
 ## ⚒️ Projects Snapshot
 
-- 🔔 **Season Notifier** – Retail staff notifier (Django)  
-- 🏡 **Airbnb Clone** – Full-stack clone using MERN  
-- ⚙️ **Retail Ops Tools** – Family business automation MVP  
+- ⚙️ **Retail Ops Tools** – MVP automating retail ops for family business  
+- 🤖 **LinkedIn Job Apply Automation** – Python tool to scrape & track fresh jobs using smart URL filters  
+- 🏡 **Airbnb Clone** – Full-stack MERN-based property rental app  
 
-→ [My GitHub Repos](https://github.com/muzammil-13?tab=repositories)
+→ [Browse My GitHub](https://github.com/muzammil-13?tab=repositories)
+
+---
+
+## 📚 My Learning Journey
+
+The path hasn’t been linear—but it's been intentional.
+
+- 🐍 In **2023**, I kicked things off with a **Python Full Stack internship**, laying my first real-world foundation in backend + frontend integration.
+  
+- ⚡ In early **2024**, I dove into **IEEE Launchpad Kerala**, where I tackled **frontend fundamentals**, participated in **CTFs**, and honed **problem-solving** and **employability** skills.
+
+- ☁️ That same year, I joined the **Google Cloud PCA Cohort**, earning **5+ skill badges** and getting hands-on with GCP fundamentals.
+
+- 💼 I also completed the **EY GDS NextGen Program**, where I strengthened my **MERN stack skills** alongside business communication and team collaboration training.
+
+- 🚀 By **2025**, I had completed **89% of The Odin Project’s Web Foundations**, sharpening my web development skills with real-world projects and exercises.
+
+- 🧠 Most recently, I joined **Micro SaaSkool**, where I’m focused on understanding **SaaS product thinking**, **MVP execution**, and the **early builder’s mindset** needed to launch something that matters.
 
 ---
 
-## 📚 Learning Timeline
 
-- 🧠 Micro SaaSkool – MVP mindset (2025)  
-- 🚀 The Odin Project – 89% Web Foundations (2025)  
-- 💼 EY GDS NextGen – MERN + Soft Skills (2024)  
-- ☁️ GCP PCA – 5 badges (2024)  
-- ⚡ IEEE Launchpad – Frontend + CTF + Problem Solving (2024)  
-- 🐍 Python Full Stack Internship (2023)
-
----
 
 ## 🌐 Community & Collaboration
 
 I'm an active member of:
 
-- 🧑‍🚀 **TinkerHub** | 🧠 **muLearn** | **PyGrammers**
+- 🧑‍🚀 **TinkerHub** | 🧠 **muLearn** | ⛎ **PyGrammers**
 - 🤝 Open to collaborations on **early-stage SaaS ideas, community projects, or hackathons**
 
 ---
