@@ -1,53 +1,48 @@
 # 👋 Salaam, I'm Muzammil Ibrahim
 
-🚀 Tech Explorer | 🌱 Grit-Driven Learner | 🛠️ Aspiring SaaS Builder | 🧠 Self-Taught Coder
-📍 From BCA Graduate to Future Tech Founder | Always grounded, always growing.
+🚀 Tech Explorer | 🧠 Self-Taught Coder | 🛠️ Aspiring SaaS Builder  
+📍 From BCA Graduate to Future Tech Founder
 
 ---
 
-## 🧩 About Me
+## 🧩 Who I Am
 
-I'm a self-taught developer who started my tech journey during the COVID era. From learning full-stack development to diving deep into open source, I've been steadily building a foundation to launch impactful software solutions.
+I'm a self-taught full-stack developer driven by grit and purpose.  
+From internships to open source to community-driven learning, I'm building toward launching impactful SaaS products.
 
-- 🎓 BCA Graduate | 🧠 Self-Taught via Projects, Internships & Communities
-- 🛠️ Skilled in **Python, JavaScript, React, Node.js, MongoDB, Firebase, Django**
-- ☁️ Hands-on with **Google Cloud Platform, REST APIs, GitHub, Firebase**
-- 🔍 Currently focused on: **SaaS MVPs | System Design | Practical DevOps**
-- 🎯 Career Goal: Build a long-term **Tech Product** that brings value and creates freedom
-
----
-
-## 🛠️ Tech Stack
-
-**Languages & Frameworks:**
-`Python` | `JavaScript` | `Django` | `React` | `Node.js` | `Express` | `Flask`
-
-**Databases & Cloud:**
-`MongoDB` | `PostgreSql` |  `Firebase` | `Google Cloud` | `AWS` | `Supabase`
-
-**Tools & Platforms:**
-`Git & GitHub` | `Postman` | `Figma` | `VS Code` | `Notion` | `Trello`
+- 💻 Python, JavaScript, React, Node.js, Django
+- ☁️ GCP, Firebase, REST APIs, GitHub
+- 🔍 Focus: SaaS MVPs, System Design, DevOps Basics
 
 ---
 
-## 💼 Projects
+## 🛠️ Skills
 
-- 🔔 **Season Notifier** (Django) – Notifies retail staff based on seasonal patterns
-- 🏡 **Airbnb Clone** (MERN) – Built core frontend/backend logic from scratch
-- ⚙️ **Retail Automation** – Researched and built MVP tools for family business ops
-
-[→ See all my projects](https://github.com/muzammil-13?tab=repositories)
+**Languages:** Python, JavaScript  
+**Frameworks:** Django, React, Node.js  
+**Cloud & DB:** GCP, Firebase, MongoDB, Supabase  
+**Tools:** Git, GitHub, Postman, Figma, Notion  
 
 ---
 
-## 🌱 Learning Journey Highlights
+## ⚒️ Projects Snapshot
 
-- 🧠 **Micro SaaSkool** (2025): Learning SaaS mindset, MVP building & GTM
-- 🧪 **Open source contributor** @ OHC Network & Pathway LLM
-- 🚀 **The Odin Project**: Completed 89% of Web Foundations
-- 📚 **EY GDS NextGen**: MERN stack, business communication, industry readiness
-- ☁️ **Google Cloud PCA Cohort**: Earned 5+ badges, got hands-on cloud exposure
-- 🐍 Python Full Stack Internship done
+- 🔔 **Season Notifier** – Retail staff notifier (Django)  
+- 🏡 **Airbnb Clone** – Full-stack clone using MERN  
+- ⚙️ **Retail Ops Tools** – Family business automation MVP  
+
+→ [My GitHub Repos](https://github.com/muzammil-13?tab=repositories)
+
+---
+
+## 📚 Learning Timeline
+
+- 🧠 Micro SaaSkool – MVP mindset (2025)  
+- 🚀 The Odin Project – 89% Web Foundations (2025)  
+- 💼 EY GDS NextGen – MERN + Soft Skills (2024)  
+- ☁️ GCP PCA – 5 badges (2024)  
+- ⚡ IEEE Launchpad – Frontend + CTF + Problem Solving (2024)  
+- 🐍 Python Full Stack Internship (2023)
 
 ---
 
@@ -55,7 +50,7 @@ I'm a self-taught developer who started my tech journey during the COVID era. Fr
 
 I'm an active member of:
 
-- 🧑‍🚀 **TinkerHub** | 🧠 **muLearn** | ...
+- 🧑‍🚀 **TinkerHub** | 🧠 **muLearn** | **PyGrammers**
 - 🤝 Open to collaborations on **early-stage SaaS ideas, community projects, or hackathons**
 
 ---
@@ -68,6 +63,11 @@ I'm an active member of:
 ### 🌐 Socials:
 
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_mzml13) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muzammil-ibrahim-pm) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@muzammilibrahim13) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17174588/muzammil-ibrahim) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_muzammil13) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@_muzammil13)
+
+> “Grit, faith, and consistency over hype.”  
+> I build slow, strong, and intentional — inch by inch.
+
+---
 
 ## 🏆 GitHub Stats
 
@@ -98,5 +98,3 @@ I'm an active member of:
 
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/muzammil_13)
 
-> “Grit, faith, and consistency over hype.”
-> I believe in building slow and strong — inch by inch, line by line.
