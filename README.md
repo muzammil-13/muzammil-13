@@ -54,23 +54,55 @@ From internships to open source to community-driven learning, I'm building towar
 
 ## 📚 My Learning Journey
 
-The path hasn’t been linear—but it's been intentional.
+The path hasn’t been linear—but it’s been intentional.
 
-- 🐍 In **2023**, I kicked things off with a **Python Full Stack internship**, laying my first real-world foundation in backend + frontend integration.
-  
-- ⚡ In early **2024**, I dove into **IEEE Launchpad Kerala**, where I tackled **frontend fundamentals**, participated in **CTFs**, and honed **problem-solving** and **employability** skills.
+### ⚙️ 2015–2020: The Curious Tinkerer
 
-- ☁️ That same year, I joined the **Google Cloud PCA Cohort**, earning **5+ skill badges** and getting hands-on with GCP fundamentals.
+Before the degrees and dev tools, I was just a tech-obsessed teenager.  
+Flashing custom ROMs, fixing desktops, troubleshooting phones, and diving deep into docs, YouTube tutorials, and XDA forums—that was my bootcamp.  
+Linux terminals, recovery modes, and optimization tricks were my playground.
 
-- 💼 I also completed the **EY GDS NextGen Program**, where I strengthened my **MERN stack skills** alongside business communication and team collaboration training.
+### 🎓 2020–2023: The Degree & Discovery
 
-- 🚀 By **2025**, I had completed **89% of The Odin Project’s Web Foundations**, sharpening my web development skills with real-world projects and exercises.
+I pursued my **Bachelor of Computer Applications** through storms—literally.  
+- 📚 First year: COVID lockdowns turned classrooms into browser tabs.  
+- 🌊 Second year: flooded with academic pressure—exams, lab records, and uncertainty.  
+- 💻 Third year: I got my first laptop—my gateway to exploring Linux admin, Android dev, and cloud computing.
 
-- 🧠 Most recently, I joined **Micro SaaSkool**, where I’m focused on understanding **SaaS product thinking**, **MVP execution**, and the **early builder’s mindset** needed to launch something that matters.
+### 🐍 2023: The Foundation Year
+
+I kicked things off with a **Python Full Stack internship**—my first structured experience building both the frontend and backend of real-world apps.
+
+### ⚡ 2024: The Launchpad
+
+I participated in **IEEE Launchpad Kerala**, where I learned:  
+- Frontend fundamentals  
+- CTF Hackathon
+- Problem-solvings in Coding
+- Core engineering principles  
+- Communication & collaboration during employability training  
+
+### ☁️ 2024: Cloud & Code
+
+Later that year, I earned **5+ skill badges** via the **Google Cloud PCA Cohort**, gaining practical experience with GCP services and infrastructure basics.
+
+### 💼 2024: Corporate Readiness
+
+The **EY GDS NextGen Emp Program** helped me refine my MERN stack capabilities while building real teamwork and soft skills that are critical in the workplace.
+
+### 🚀 2025: Sharpening the Blade
+
+I completed **89% of The Odin Project’s Web Foundations**, solidifying my understanding of full-stack architecture through project-based learning.
+
+### 🧠 2025–Present: The SaaS Mindset
+
+Now I’m part of **Micro SaaSkool**, focusing on:  
+- MVP building  
+- SaaS product thinking  
+- Iterating with user feedback  
+- Laying the groundwork for a meaningful tech product
 
 ---
-
-
 
 ## 🌐 Community & Collaboration
 
