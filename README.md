@@ -1,4 +1,4 @@
-# 👋 Salaam, I'm Muzammil Ibrahim
+# 👋 I'm Muzammil Ibrahim
 
 🚀 Tech Explorer | 🧠 Self-Taught Coder | 🛠️ Aspiring SaaS Builder  
 📍 From BCA Graduate to Future Tech Founder
