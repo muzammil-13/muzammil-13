@@ -1,158 +1,208 @@
-# 👋 I'm Muzammil Ibrahim
+# 👋 Hi, I'm Muzammil Ibrahim
 
-🚀 Tech Explorer | 🧠 Self-Taught Coder | 🛠️ Aspiring SaaS Builder  
+🚀 Full Stack Developer (React.js & Django) | 🛠️ Aspiring SaaS Builder  
 📍 From BCA Graduate to Future Tech Founder
+
+![Profile Completeness](https://img.shields.io/badge/Profile-Complete-brightgreen)
+![Open to Collaborate](https://img.shields.io/badge/Open%20to-Collaborate-blue)
+![Ask Me About](https://img.shields.io/badge/Ask%20Me%20About-React%2C%20Django-blue)
+
+---
+
+## 📑 Table of Contents
+
+- [Who I Am](#-who-i-am)
+- [Tech Stack](#-tech-stack)
+- [Projects Snapshot](#-projects-snapshot)
+- [Learning Journey](#-learning-journey)
+- [Code Principles](#-code-principles)
+- [Community & Collaboration](#-community--collaboration)
+- [Let's Connect](#-lets-connect)
+- [GitHub Stats](#-github-stats)
+- [GitHub Trophies](#-github-trophies)
+- [Dev Quote](#-random-dev-quote)
+- [Top Contributed Repo](#-top-contributed-repo)
+- [Support](#-you-can-help-me-by-donating)
 
 ---
 
 ## 🧩 Who I Am
 
-I'm a self-taught full-stack developer driven by grit and purpose.  
-From internships to open source to community-driven learning, I'm building toward launching impactful SaaS products.
+I'm a self-taught full stack developer passionate about clean code, modular design, and building impactful products.
 
-- 💻 Python, JavaScript, React, Node.js, Django
-- ☁️ GCP, Firebase, REST APIs, GitHub
-- 🔍 Focus: SaaS MVPs, System Design, DevOps Basics
+- 💻 **Languages:** Python, JavaScript (ES6+)
+- 🌐 **Specialty:** React.js for modern UIs ([React Docs](https://react.dev/)), Django for scalable backends ([Django Docs](https://docs.djangoproject.com/en/stable/))
+- ☁️ **Cloud:** GCP, Firebase, REST APIs
+- 🔍 **Focus:** SaaS MVPs, System Design, DevOps Basics
+- 🧠 **Values:** Consistency, grit, and intentional growth
 
 ---
 
-## 🛠️ Skills
+## 🧑‍💻 Tech Stack
 
-### 🧑‍💻 Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- **Frontend:**  
+  - React.js (Component-driven UIs, Hooks, State Management)
+  - JavaScript (ES6+, async/await)
+  - HTML5, CSS3, Responsive Design
 
-### 🧱 Frameworks & Libraries
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+- **Backend:**  
+  - Django (REST API, authentication, scalable backends)
+  - Node.js (microservices, API development)
 
-### ☁️ Cloud & Databases
-![Google Cloud](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+- **Database & Cloud:**  
+  - MongoDB, Supabase, PostgreSQL
+  - Google Cloud Platform, Firebase
 
-### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)
+- **DevOps/Tools:**  
+  - Git, GitHub Actions, Docker (basics)
+  - Postman (API testing), Figma (UI/UX), Notion (productivity)
 
 ---
 
 ## ⚒️ Projects Snapshot
 
-- ⚙️ **Retail Ops Tools** – MVP automating retail ops for family business  
-- 🤖 **LinkedIn Job Apply Automation** – Python tool to scrape & track fresh jobs using smart URL filters  
-- 🏡 **Airbnb Clone** – Full-stack MERN-based property rental app  
+- **Retail Ops Tools**  
+  _Automates retail operations for family business._  
+  **Stack:** Django, React.js  
+  - Automates inventory and sales reporting  
+  - Role-based access control  
+  - [Source Code](https://github.com/muzammil-13/retail-ops-tools)  
 
-→ [Browse My GitHub](https://github.com/muzammil-13?tab=repositories)
+- **LinkedIn Job Apply Automation**  
+  _Python tool for job tracking with smart filters._  
+  **Stack:** Python, Selenium  
+  - Scrapes LinkedIn job listings  
+  - Exports to CSV for easy tracking  
+  - [Source Code](https://github.com/muzammil-13/linkedin-job-apply-automation)  
+
+- **Airbnb Clone**  
+  _Full-stack property rental app._  
+  **Stack:** MERN (MongoDB, Express, React, Node), Docker  
+  - User authentication  
+  - Search & filter rentals  
+  - [Source Code](https://github.com/muzammil-13/airbnb-clone)  
+
+→ [Browse All Projects](https://github.com/muzammil-13?tab=repositories)
 
 ---
 
-## 📚 My Learning Journey
+## 📚 Learning Journey
 
-The path hasn’t been linear—but it’s been intentional.
+- **2014–2019:** The Curious Tinkerer  
+  - Explored Linux, Android, and hardware  
+  - Self-taught via docs, YouTube, and forums
 
-### ⚙️ 2015–2020: The Curious Tinkerer
+- **2020–2023:** BCA Degree & Discovery  
+  - Navigated remote learning and academic challenges  
+  - First laptop: dove into Linux admin, Android dev, and cloud computing
 
-Before the degrees and dev tools, I was just a tech-obsessed teenager.  
-Flashing custom ROMs, fixing desktops, troubleshooting phones, and diving deep into docs, YouTube tutorials, and XDA forums—that was my bootcamp.  
-Linux terminals, recovery modes, and optimization tricks were my playground.
+- **2023:** Foundation Year  
+  - Python Full Stack internship: built real-world apps (frontend & backend)
 
-### 🎓 2020–2023: The Degree & Discovery
+- **2024:** Launchpad & Cloud  
+  - IEEE Launchpad Kerala: frontend, hackathons, team skills  
+  - Google Cloud PCA Cohort: earned 5+ skill badges, hands-on GCP
 
-I pursued my **Bachelor of Computer Applications** through storms—literally.  
-- 📚 First year: COVID lockdowns turned classrooms into browser tabs.  
-- 🌊 Second year: flooded with academic pressure—exams, lab records, and uncertainty.  
-- 💻 Third year: I got my first laptop—my gateway to exploring Linux admin, Android dev, and cloud computing.
+- **2024:** Corporate Readiness  
+  - EY GDS NextGen Emp Program: MERN stack, teamwork, and soft skills
 
-### 🐍 2023: The Foundation Year
+- **2025:** Advanced Web Foundations  
+  - Completed 89% of The Odin Project’s curriculum (React, Django, full stack)
 
-I kicked things off with a **Python Full Stack internship**—my first structured experience building both the frontend and backend of real-world apps.
+- **2025–Present:** SaaS Mindset  
+  - Micro SaaSkool: MVP building, SaaS product thinking, user feedback
 
-### ⚡ 2024: The Launchpad
+---
 
-I participated in **IEEE Launchpad Kerala**, where I learned:  
-- Frontend fundamentals  
-- CTF Hackathon
-- Problem-solvings in Coding
-- Core engineering principles  
-- Communication & collaboration during employability training  
+## 🧹 Code Principles
 
-### ☁️ 2024: Cloud & Code
-
-Later that year, I earned **5+ skill badges** via the **Google Cloud PCA Cohort**, gaining practical experience with GCP services and infrastructure basics.
-
-### 💼 2024: Corporate Readiness
-
-The **EY GDS NextGen Emp Program** helped me refine my MERN stack capabilities while building real teamwork and soft skills that are critical in the workplace.
-
-### 🚀 2025: Sharpening the Blade
-
-I completed **89% of The Odin Project’s Web Foundations**, solidifying my understanding of full-stack architecture through project-based learning.
-
-### 🧠 2025–Present: The SaaS Mindset
-
-Now I’m part of **Micro SaaSkool**, focusing on:  
-- MVP building  
-- SaaS product thinking  
-- Iterating with user feedback  
-- Laying the groundwork for a meaningful tech product
+- Modular, reusable components ([React best practices](https://react.dev/learn))
+- Django’s “fat models, thin views” for maintainability ([Django best practices](https://docs.djangoproject.com/en/stable/topics/db/models/#fat-models))
+- Consistent naming and code readability
+- Aim for scalable, production-ready code
+- Test-driven development (TDD) for key modules
 
 ---
 
 ## 🌐 Community & Collaboration
 
-I'm an active member of:
+- Active in:  
+  - 🧑‍🚀 TinkerHub  
+  - 🧠 muLearn  
+  - ⛎ PyGrammers
 
-- 🧑‍🚀 **TinkerHub** | 🧠 **muLearn** | ⛎ **PyGrammers**
-- 🤝 Open to collaborations on **early-stage SaaS ideas, community projects, or hackathons**
+- 🤝 Open to:  
+  - Early-stage SaaS collaborations  
+  - Community projects  
+  - Hackathons
 
 ---
 
 ## 📫 Let's Connect
 
-- 📝 [Portfolio](https://muzammil-13.github.io)
-- ✉️ muzammilibrahim13@gmail.com
+- 📧 [Email](mailto:muzammilibrahim13@gmail.com)
+- 🌐 [Portfolio](https://muzammil-13.github.io)
+- 💼 [LinkedIn](https://linkedin.com/in/muzammil-ibrahim-pm)
 
-### 🌐 Socials:
+**Socials:**  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_mzml13)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@muzammilibrahim13)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17174588/muzammil-ibrahim)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_muzammil13)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@_muzammil13)
 
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_mzml13) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muzammil-ibrahim-pm) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@muzammilibrahim13) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17174588/muzammil-ibrahim) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_muzammil13) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@_muzammil13)
+---
+
+## 🏆 GitHub Stats
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=muzammil-13&label=Profile%20views&color=000000&style=flat" alt="muzammil-13" />
+</p>
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muzammil-13&bg_color=000000&color=16bb37&line=16bb37&point=ffffff&area=true&hide_border=true)
+
+<details>
+  <summary>View More GitHub Stats</summary>
+
+  ![](https://github-readme-stats.vercel.app/api?username=muzammil-13&theme=swift&hide_border=false&include_all_commits=true&count_private=true)
+  
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=muzammil-13&theme=swift&hide_border=false)
+  
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=muzammil-13&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</details>
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=muzammil-13&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+## ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
+---
+
+## 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=muzammil-13&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+## 💰 Support My Journey
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/muzammil_13)
+
+---
 
 > “Grit, faith, and consistency over hype.”  
 > I build slow, strong, and intentional — inch by inch.
 
 ---
 
-## 🏆 GitHub Stats
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muzammil-13&label=Profile%20views&color=000000&style=flat" alt="muzammil-13" /> </p>
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muzammil-13&bg_color=000000&color=16bb37&line=16bb37&point=ffffff&area=true&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api?username=muzammil-13&theme=swift&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=muzammil-13&theme=swift&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=muzammil-13&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=muzammil-13&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=muzammil-13&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-## 💰 You can help me by Donating
-
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/muzammil_13)
-
+<!--**Tips for further improvement:**
+- Keep your project list updated and include links to live demos if possible.
+- Regularly update your stats and learning journey.
+- Consider adding short GIFs or screenshots for your top projects for more visual engagement.-->
