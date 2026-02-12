@@ -19,6 +19,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  
+<a href="https://www.f6s.com/member/muzammil-ibrahim?follow=1" target="_blank"
+title="Follow Muzammil Ibrahim
+on F6S"><img src="https://www.f6s.com/images/f6s-follow-secondary.png"
+border="0" width="78" height="22 "
+alt="Follow Muzammil Ibrahim on F6S" style="width: 78px; height: 22px;
+padding: 0px; margin: 0px;" /></a>
+
 <a href="https://github.com/muzammil-13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="muzammil-13" height="30" width="40" /></a>
 <a href="https://dev.to/muzammil-13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="muzammil-13" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muzammil-ibrahim-pm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muzammil-ibrahim-pm" height="30" width="40" /></a>
