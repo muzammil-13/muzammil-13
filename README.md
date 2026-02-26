@@ -1,4 +1,4 @@
-# Hi 👋, I'm Muzammil Ibrahim PM
+# Hi 👋, I'm Muzammil
 
 ### Developer on building Brick by Brick 🧱
 
