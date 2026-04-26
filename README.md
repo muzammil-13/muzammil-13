@@ -1,47 +1,69 @@
 # Hi 👋, I'm Muzammil Ibrahim PM
+### Aspiring Software Engineer | Tech Enthusiast | Automation Specialist
 
-### Developer on building Brick by Brick 🧱
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muzammil-13&label=Profile views&color=0e75b6&style=flat" alt="muzammil-13" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muzammil-13" alt="muzammil-13" /></a> </p>
-
-- 🔭 I'm currently working on **Building internal automation tools at IBM and tinkering my first independent Micro SaaS product.**
-- 🌱 I'm currently learning **Vibe coding with Python for AI/ML and sharpening my "thinking in code" through DSA.**
-- 👯 I'm looking to collaborate on **Impactful Micro SaaS projects or open-source Python tools where AI meets practical automation.**
-- 🤝 I'm looking for help with **Deep-diving into system design and optimizing production-ready DevOps pipelines.**
-- 💬 Ask me about **Python, JavaScript, MERN Stack, and how to maintain a "GRIT" mindset in tech.**
-- 📫 How to reach me **muzammilibrahim13@gmail.com**
-- ⚡ Fun fact **I live by the 80/20 rule—80% hands-on building, 20% theory. I’m also a future farmer/writer in the making.**
-- 👨‍💻 All of my projects are available at **[muzammil-13.github.io](https://muzammil-13.github.io)**
-- 📝 I write articles on **[medium.com/@muzammilibrahim13](https://medium.com/@muzammilibrahim13)**
-- 📄 Know about my experiences: **[Resume](https://docs.google.com/document/d/1BI_6WDCdUC45jt63IqoiZnGNfFRaGVKIuLarJ48Xo-8/edit?usp=sharing)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/muzammil-13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="muzammil-13" height="30" width="40" /></a>
-<a href="https://dev.to/muzammil-13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="muzammil-13" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muzammil-ibrahim-pm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muzammil-ibrahim-pm" height="30" width="40" /></a>
-<a href="https://codepen.io/muzammil13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="muzammil13" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17174588/muzammil-ibrahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17174588/muzammil-ibrahim" height="30" width="40" /></a>
-<a href="https://kaggle.com/muzammilibrahimpm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="muzammilibrahimpm" height="30" width="40" /></a>
-<a href="https://fb.com/muzammilibrahim13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muzammilibrahim13" height="30" width="40" /></a>
-<a href="https://instagram.com/_mzml13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mzml13" height="30" width="40" /></a>
-<a href="https://twitter.com/_muzammil13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_muzammil13" height="30" width="40" /></a>
-<a href="https://medium.com/@muzammilibrahim13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@muzammilibrahim13" height="30" width="40" /></a>
-<a href="https://youtube.com/@_muzammil13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@_muzammil13" height="30" width="40" /></a>
-<a href="https://codechef.com/users/muzammil1307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" alt="muzammil1307" height="30" width="40" /></a>
-<a href="https://hackerrank.com/muzammilibrahim3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="muzammilibrahim3" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/muzammil-13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="muzammil-13" height="30" width="40" /></a>
-<a href="https://leetcode.com/muzammil-13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="muzammil-13" height="30" width="40" /></a>
-<a href="https://discord.gg/739813212022767627" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="739813212022767627" height="30" width="40" /></a>
+<p align="center">
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=muzammil-13&label=Profile%20views&color=0e75b6&style=flat" alt="muzammil-13" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/azure" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gcp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/heroku" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=heroku" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/illustrator" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=illustrator" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/materialize" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sass" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/streamlit" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a></p>
+<!-- <p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muzammil-13&margin-w=15&margin-h=15" alt="muzammil-13" /></a>
+</p> -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muzammil-13&show_icons=true&locale=en&layout=compact" alt="muzammil-13" /></p>
+I'm a passionate developer who lives by the 80/20 rule—**80% hands-on building, 20% theory**. I specialize in Python, JavaScript, and the MERN stack. Currently, I'm building internal automation tools at **IBM** and tinkering with my first independent Micro SaaS product. I thrive on bringing a "GRIT" mindset to solving complex technical challenges.
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=muzammil-13&show_icons=true&locale=en" alt="muzammil-13" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muzammil-13&" alt="muzammil-13" /></p>
+### 🚀 What I'm Up To
+- 🔭 **Currently Working On:** Building scalable internal automation tools at **IBM** and launching an independent Micro SaaS product.
+- 🌱 **Currently Learning:** AI/ML with Python and strengthening my foundation in System Design and Data Structures & Algorithms.
+- 👯 **Looking to Collaborate On:** Impactful Micro SaaS projects or open-source Python tools where AI meets practical automation.
+- 💬 **Ask Me About:** Python, JavaScript, React, Node.js, and how to maintain a resilient mindset in tech.
+
+### 🌐 Connect & Explore
+- 👨‍💻 **Portfolio & Projects:** [muzammil-13.github.io](https://muzammil-13.github.io)
+- 📄 **Resume:** [View my Resume](https://docs.google.com/document/d/1BI_6WDCdUC45jt63IqoiZnGNfFRaGVKIuLarJ48Xo-8/edit?usp=sharing)
+- 📝 **Writing:** [Medium Articles](https://medium.com/@muzammilibrahim13)
+- 📫 **Email:** [muzammilibrahim13@gmail.com](mailto:muzammilibrahim13@gmail.com)
+
+<p align="left">
+<a href="https://linkedin.com/in/muzammil-ibrahim-pm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://github.com/muzammil-13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
+<a href="https://dev.to/muzammil-13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" /></a>
+<a href="https://medium.com/@muzammilibrahim13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
+<a href="https://twitter.com/_muzammil13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+</p>
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Languages:**  
+![Languages](https://skillicons.dev/icons?i=py,js,java,c,cpp,html,css,sass,bash)
+
+**Frontend & Backend:**  
+![Frameworks](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,fastapi,flask,tailwind,mui,bootstrap)
+
+**Databases & Cloud:**  
+![Databases & Cloud](https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,gcp,azure,heroku)
+
+**Tools & DevOps:**  
+![Tools](https://skillicons.dev/icons?i=git,docker,linux,nginx,postman,figma)
+
+**Data Science & Machine Learning:**  
+*Pandas, NumPy, Scikit-Learn, OpenCV, Matplotlib, Seaborn, Jupyter, Streamlit*
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muzammil-13&show_icons=true&locale=en" alt="muzammil-13 stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muzammil-13&show_icons=true&locale=en&layout=compact" alt="muzammil-13 top langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muzammil-13" alt="muzammil-13 streak" />
+</p>
+
+
