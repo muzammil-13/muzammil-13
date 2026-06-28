@@ -1,37 +1,34 @@
 name: Update README
 on:
   schedule:
-    - cron: '*/30 * * * *'  # Run every 30 minutes
+    - cron: '0 0 * * *'  # Run once a day at midnight
   workflow_dispatch:  # Manual trigger option
-  
   push:
     branches:
       - main
 
 jobs:
   update-readme:
+    runs-on: ubuntu-latest
     permissions:
       contents: write  # Explicit permissions
-    runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       - name: Update README
         run: |
-          # Get current date
-          DATE=$(date '+%Y-%m-%d')
-          
-          # Update last modified date in README
-          sed -i "s/Last Updated: .*/Last Updated: $DATE/" README.md
-          
-          # Update profile views count
-          sed -i "s/<p align=\"left\">.*profile%20views.*/<p align=\"left\"> <img src=\"https:\/\/komarev.com\/ghpvc\/?username=muzammil-13\&label=Profile%20views\&color=000000\&style=flat\" alt=\"muzammil-13\" \/> <\/p>/" README.md
-          
-          # Commit changes if any
+          # This command will find a line containing "Last Updated:" and replace it with the current date.
+          # Make sure your README.md has a line like "Last Updated: YYYY-MM-DD" for this to work.
+          sed -i "s/Last Updated: .*/Last Updated: $(date '+%Y-%m-%d')/" README.md
+
+      - name: Commit and push if changed
+        run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add README.md
-          git diff --quiet && git diff --staged --quiet || git commit -m "Update README with latest info"
-          git push
+          if ! git diff --staged --quiet; then
+            git commit -m "docs: update README with latest information"
+            git push
+          fi
