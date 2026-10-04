@@ -226,7 +226,7 @@ My approach:
 
 ## 💼 Experience
 
-**Contract DataOps Analyst** *(IBM Enterprise Environment)*
+**DataOps Analyst** *(IBM Enterprise Environment)*
 
 Working on enterprise data operations, automation, and reporting workflows. Responsibilities include:
 - Python automation and data validation scripting
