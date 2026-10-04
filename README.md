@@ -18,7 +18,7 @@ I began my career with a software engineering background, spent time as a develo
 
 ## 🚀 Current Focus
 
-* **Enterprise DataOps:** Building data validation, reconciliation, and reporting automation at IBM
+* **Enterprise DataOps:** Building data validation, reconciliation, and reporting automation in an IBM environment
 * **Data Engineering:** Learning distributed data systems, orchestration frameworks, and cloud data platforms
 * **Cloud Data Platforms:** Working with Snowflake, Teradata, and cloud-native data architectures
 * **AI-assisted Engineering:** Using AI to accelerate development, debugging, and documentation while staying grounded in fundamentals
@@ -37,7 +37,7 @@ I began my career with a software engineering background, spent time as a develo
 **Operational Automation**
 - Python automation for repetitive data tasks
 - Data pipeline orchestration and monitoring
-- Internal tooling for data teams and analysts
+- Internal tooling for enterprise data teams and analysts
 - Excel and SQL-based reporting automation
 
 **Data Engineering Foundations**
@@ -50,11 +50,73 @@ I began my career with a software engineering background, spent time as a develo
 
 ## 📌 Featured Projects
 
-### 🔍 Healthcare Claims Reporting Pipeline
+### ⚙️ Batch Monitor Agent
+
+**Internal enterprise automation project** for monitoring batch-processing workflows, analyzing execution output, detecting operational conditions, and reducing manual investigation through automated detection and alerting.
+
+As the **technical lead and product owner** for the end-to-end build, I'm using an **AI-assisted SDLC approach** to plan, design, implement, test, document, and iterate. The project demonstrates:
+
+- Python automation and batch job monitoring
+- Log and output analysis
+- Rule-based status detection and alerting
+- Operational workflow automation
+- Product-oriented engineering and technical ownership
+- AI-assisted design, implementation, and documentation
+
+**What it shows:** automation thinking, operational systems, product ownership, AI-assisted engineering
+
+**Tech Stack:** Python • Batch Processing • Automation • Monitoring • AI-assisted SDLC
+
+*(Implementation details are kept high-level because this is an internal enterprise project.)*
+
+---
+
+### 🔍 Operational Data Validator
+
+**A configurable validation engine for operational data workflows** that turns repetitive manual data checks into repeatable, auditable validation workflows using reusable business-rule presets.
+
+This project demonstrates:
+
+- Rule-based validation for data equality and tolerance checks
+- Preset-driven validation architecture
+- CSV and Excel input handling
+- PASS / WARN / FAIL validation outcomes
+- Reusable logic for data quality checks and reconciliation workflows
+- Python testing with pytest
+
+**What it shows:** data validation fundamentals, modular architecture, data quality engineering, automation-first thinking
+
+**Tech Stack:** Python • Pandas • PyYAML • pytest • Excel/CSV Validation
+
+---
+
+### 📊 Data Reconciliation Copilot
+
+**A local-first B2B MVP for comparing two CSV/XLSX datasets**, finding deterministic discrepancies, using AI to explain the results, and exporting reconciliation reports.
+
+The system combines:
+
+- Deterministic reconciliation logic using Pandas
+- Missing record, duplicate, mismatch, and schema issue detection
+- AI root-cause analysis and summary generation
+- React + FastAPI full-stack architecture
+- Supabase-ready auth and SaaS-ready structure
+
+**What it shows:** full-stack data engineering, reconciliation workflows, AI-assisted root-cause analysis, deployment thinking
+
+**Tech Stack:** React • TypeScript • FastAPI • Pandas • Supabase • OpenAI
+
+---
+
+### 🏥 Healthcare Claims Reporting Pipeline
 
 **A production-inspired Python ETL pipeline** that automates end-to-end claims reporting from raw operational data to validated Excel reports and automated email delivery.
 
-This project demonstrates core data engineering concepts: data validation, transformation, error handling, and scheduled automation.
+This project demonstrates core data engineering concepts:
+- Data validation and transformation
+- Error handling and logging
+- Scheduled automation
+- Operational report generation
 
 **What it shows:** ETL design, data quality checks, reporting automation, Python best practices
 
@@ -62,23 +124,13 @@ This project demonstrates core data engineering concepts: data validation, trans
 
 ---
 
-### 📊 Claims Reporting UI
-
-**Interactive Streamlit application** for generating dynamic reporting dashboards from claims datasets. Built to reduce manual report generation overhead for business users.
-
-**What it shows:** Data-driven automation, internal tooling, reducing operational friction
-
-**Tech Stack:** Streamlit • Python • Data Visualization
-
----
-
 ### ⚙️ Healthcare Claims Simulator
 
 **Simulation environment** that mimics a real-world healthcare claims adjudication workflow. Used for understanding complex data workflows, experimentation, and learning data engineering patterns.
 
-**What it shows:** System design thinking, workflow orchestration, data flow modeling
+**What it shows:** system design thinking, workflow orchestration, data flow modeling, KPI monitoring
 
-**Tech Stack:** Python • Data Engineering • Workflow Modeling
+**Tech Stack:** Python • FastAPI • SQLite • Pandas • Streamlit • Plotly
 
 ---
 
@@ -96,9 +148,9 @@ Explores LLM-assisted data processing and semantic search for document understan
 
 ### 🔍 FileShazam *(Private)*
 
-**Semantic desktop search engine** for finding files by meaning instead of filename. Built to solve a real usability problem: remembering what you stored but not where.
+**Semantic desktop search engine** for finding files by meaning instead of filename.
 
-**What it shows:** Embeddings, semantic search, file system automation
+**What it shows:** embeddings, semantic search, file system automation
 
 **Tech Stack:** Python • Embeddings • Semantic Search
 
@@ -146,7 +198,7 @@ Explores LLM-assisted data processing and semantic search for document understan
 
 ## 🏆 Certifications
 
-**IBM Certified Data & AI (CCDVF)** — *Completed, Q4 2026*
+**IBM Certified Data & AI (CCDVF)** — Completed, Q4 2026
 
 ---
 
@@ -174,7 +226,7 @@ My approach:
 
 ## 💼 Experience
 
-**DataOps Analyst** *(IBM Enterprise Environment)*
+**Contract DataOps Analyst** *(IBM Enterprise Environment)*
 
 Working on enterprise data operations, automation, and reporting workflows. Responsibilities include:
 - Python automation and data validation scripting
@@ -195,7 +247,7 @@ Previously completed a developer internship at IBM, where I transitioned into Da
 
 * 💼 **LinkedIn:** [muzammilipm](https://www.linkedin.com/in/muzammilipm)
 * 🌍 **Portfolio:** [muzammil-13.github.io](https://muzammil-13.github.io/)
-* 📝 **Substack:** [@muzammil13](https://substack.com/@muzammil13) *(documenting my learning journey)*
+* 📝 **Substack:** [@muzammil13](https://substack.com/@substack.com/@muzammil13) *(documenting my learning journey)*
 * 📄 **Resume:** [Google Drive](https://docs.google.com/document/d/18TkZdb328d_uXNuwWcPAFO6GPaNUcyqgN8q921B7dwI/edit?usp=sharing)
 * 📧 **Email:** [muzammilibrahim13@gmail.com](mailto:muzammilibrahim13@gmail.com)
 
